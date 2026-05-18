@@ -11,4 +11,4 @@ COPY . .
 
 EXPOSE 10000
 
-CMD ["ttyd", "-p", "10000", "python3", "devbuild_tetris.py"]
+CMD ["ttyd", "-p", "10000", "-W", "python3", "devbuild_tetris.py"]
