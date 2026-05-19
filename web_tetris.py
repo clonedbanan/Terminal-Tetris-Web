@@ -531,7 +531,7 @@ r"                                                "
     FADE_OUT_DURATION = 0.35
 
     # New: menu with Local Multiplayer option, VS COM and Advanced Options
-    options = ["Start", "Local Multiplayer", "VS COM", "Adv. Options", "Quit"]
+    options = ["Start", "Local Multiplayer", "VS COM", "Adv. Options"]
     sel = 0
     while True:
         stdscr.erase()
