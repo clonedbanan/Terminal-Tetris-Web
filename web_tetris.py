@@ -469,10 +469,10 @@ r"       (_  _)(  __)(_  _)(  _ \(  )/ ___)       ",
 r"         )(   ) _)   )(   )   / )( \___ \       ",
 r"        (__) (____) (__) (__\_)(__)(____/       ",
 r"                                                ",
-r"                   (Web Version)                "
-r"                                                ",
+r"                   (Web Version)                ",
+r"                                                "
 ]
-    subtitle = "By: Caleb Katz"
+    subtitle = ""
     # Removed direct-play and ESC hints to avoid misleading quit hints
     per_line_delay = 0.01
 
