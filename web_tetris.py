@@ -459,6 +459,7 @@ def piece_cell_str(piece):
 def start_screen(stdscr):
     art = MENU_ART
     title = [
+r"                   Caleb Katz's                 ",
 r"  ____  ____  ____  _  _  __  __ _   __   __    ",
 r" (_  _)(  __)(  _ \( \/ )(  )(  ( \ / _\ (  )   ",
 r"   )(   ) _)  )   // \/ \ )( /    //    \/ (_/\ ",
@@ -468,7 +469,8 @@ r"       (_  _)(  __)(_  _)(  _ \(  )/ ___)       ",
 r"         )(   ) _)   )(   )   / )( \___ \       ",
 r"        (__) (____) (__) (__\_)(__)(____/       ",
 r"                                                ",
-r"                   Web Version                  "
+r"                   (Web Version)                "
+r"                                                ",
 ]
     subtitle = "By: Caleb Katz"
     # Removed direct-play and ESC hints to avoid misleading quit hints
