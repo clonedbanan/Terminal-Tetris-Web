@@ -468,9 +468,7 @@ r"        ____  ____  ____  ____  __  ____        ",
 r"       (_  _)(  __)(_  _)(  _ \(  )/ ___)       ",
 r"         )(   ) _)   )(   )   / )( \___ \       ",
 r"        (__) (____) (__) (__\_)(__)(____/       ",
-r"                                                ",
-r"                   (Web Version)                ",
-r"                                                "
+r"                   (Web Version)                "
 ]
     subtitle= ""
     # Removed direct-play and ESC hints to avoid misleading quit hints
